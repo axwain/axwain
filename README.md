@@ -1,14 +1,12 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> Hello! I’m @axwain, you can call me Ax or Ariel
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> Hello! I’m @axwain, you can call me Ax
 
-I'm a systems engineer that has worked as a software developer, mostly doing fullstack applications and web sites.
+I'm a systems engineer that has worked as a software developer, mostly doing fullstack applications and web sites, and in recent years as a HTML Game Developer, making Playable Ads.
 
-I’m interested in programming in general. I know Javascript and C# better. If you ask me my preferred topics of programming right now is server/client programming.
+I’m interested in programming in general. Javascript and C# are my current main languages.
 
 I’m currently learning Typescript, React and Golang. React and Typescript for the Front-end and Golang for the backend.
 
-My current goals are in this [Trello Board](https://trello.com/b/F9Rlg78K/goals)
-
-I’m training so I can make contributions to OpenSource projects, mainly those that are done in Go. When I find the one I feel I can collaborate, I'll update this.
+My current goals and side projects are in this [Trello Board](https://trello.com/b/F9Rlg78K/goals)
 
 <h3 align="left">📫 You can reach me on:</h3>
 <p align="left">
